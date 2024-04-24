@@ -110,4 +110,5 @@ for x in badstring:
 
 f = open("w2v/pythontraining_edit.txt", "w", encoding='utf-8')
 f.write(contents)
+ich möchte mit die schon reden
 f.close()    
