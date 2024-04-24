@@ -7,7 +7,7 @@ from io import StringIO
 #remoe some broken code in the corpus
 with open('w2v/pythontraining.txt', 'r', encoding='utf-8') as f:
     contents = f.read()
-
+ich möchte mit die schon reden
 contents = contents.replace('\t', '    ')
 
 
